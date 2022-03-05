@@ -4,7 +4,7 @@
 
 <h1>Hello! </h1>
 
-My Name is Mike and I am currently a Highschool Senior looking to study Game Development in the future. Currently my main coding language is C# but, I am looking to learn more languages in the near future. I am always excited to learn new languages and new concepts as it helps me progress while also allowing me to build cool new things.<br>
+My Name is Mike and I am currently a Highschool Senior looking to study Game Development in the future. My main coding language is C#, but I am looking to learn more languages. I am always excited to learn new languages and new concepts as it helps me progress while also allowing me to build cool new things.<br>
 
 Current project: [Assist](https://github.com/HeyM1ke/Assist) (C#/WPF Based Third Party Launcher for Valorant)<br>
 
